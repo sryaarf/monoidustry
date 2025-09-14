@@ -6,4 +6,4 @@ A MINDUSTRY MOD (again dude XD <br>
 
 Will available in: INDONESIA & ENGLISH LANGUAGE
 
-indonesian language will helped by: (Kev-Vily)[ttps://github.com/Kev-Vily]
+indonesian language will helped by: <a href="https://github.com/Kev-Vily">Kev-Vily</a>
